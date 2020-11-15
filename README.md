@@ -26,6 +26,3 @@ This repo houses my code alongs, my exerecises, my studios and cumulative assign
 20. Relationships in Object-Relational Mapping
 21. Authentication
 22. Introduction to Web APIs & REST
-
-
-test
