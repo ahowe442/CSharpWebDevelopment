@@ -2,7 +2,7 @@
 
 This repo houses my code alongs, my exerecises, my studios and cumulative assignments for C#
 
-####[C# Web Development Online Textbook](https://education.launchcode.org/csharp-web-development/index.html)
+[C# Web Development Online Textbook](https://education.launchcode.org/csharp-web-development/index.html)
 
 1. Data Types
 2. Data Type Exerecises.
