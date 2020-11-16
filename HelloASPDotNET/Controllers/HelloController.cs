@@ -15,7 +15,7 @@ namespace HelloASPDotNET.Controllers
         [Route("/helloworld")]
         public IActionResult Index()
         {
-            string html = "<form method='post' action='/helloworld/welcome'>" +
+            string html = "<form method='post' action='/helloworld/'>" +
                 "<input type='text' name='name' />" +
                 "<input type='submit'q value='Greet Me!'>" +
                 "</form>";
@@ -26,7 +26,7 @@ namespace HelloASPDotNET.Controllers
         //[HttpGet]
         //[Route("/helloworld/welcome/{name?}")]
         [HttpPost]
-        [Route("/helloworld/welcome")]
+        [Route("/helloworld")]
         public IActionResult Welcome(string name = "World")
         {
             return Content("<h1>Welcome to my app, " + name + "!</h1>", "text/html");
