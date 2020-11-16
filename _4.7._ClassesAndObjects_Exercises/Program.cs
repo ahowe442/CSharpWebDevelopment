@@ -6,7 +6,13 @@ namespace _4._7._ClassesAndObjects_Exercises
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Student abby = new Student("Abby");
+            Console.WriteLine("Abby's Grade (Before) " + abby.ToString());
+            abby.AddGrade(3, 4.0);
+            Console.WriteLine("Abby's Grade (After) " + abby.ToString());
+            abby.AddGrade(3, 4.0);
+            Console.WriteLine("Abby's Grade (After) " + abby.ToString());
+
         }
     }
 }
