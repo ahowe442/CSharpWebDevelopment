@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4.8._Classes_ResturauntMen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5.6._Studio_ResturauntMenuPt2", "_5.6._Studio_ResturauntMenuPt2\_5.6._Studio_ResturauntMenuPt2.csproj", "{F5EDD3B8-9761-4C97-93F7-7DAA8968AD22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7._Inheritance", "_7._Inheritance\_7._Inheritance.csproj", "{2CD8222E-5EE7-440D-804B-991E1E4C72FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,6 +98,10 @@ Global
 		{F5EDD3B8-9761-4C97-93F7-7DAA8968AD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5EDD3B8-9761-4C97-93F7-7DAA8968AD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5EDD3B8-9761-4C97-93F7-7DAA8968AD22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD8222E-5EE7-440D-804B-991E1E4C72FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD8222E-5EE7-440D-804B-991E1E4C72FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD8222E-5EE7-440D-804B-991E1E4C72FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD8222E-5EE7-440D-804B-991E1E4C72FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
