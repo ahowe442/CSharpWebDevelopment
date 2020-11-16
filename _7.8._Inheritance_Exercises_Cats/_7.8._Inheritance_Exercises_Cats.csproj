@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_7._8._Inheritance_Exercises_Cats</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="CatTests\" />
+  </ItemGroup>
+</Project>
