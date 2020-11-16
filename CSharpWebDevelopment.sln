@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5.6._Studio_ResturauntMenu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7._Inheritance", "_7._Inheritance\_7._Inheritance.csproj", "{2CD8222E-5EE7-440D-804B-991E1E4C72FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cats", "..\C#\_7._Inheritance\_7.8._Exercises_Inheritance\csharp-web-dev-lsn6inheritance-master\Cats\Cats.csproj", "{FEA877A8-C030-47F6-B997-85CE4EB3727E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,6 +104,10 @@ Global
 		{2CD8222E-5EE7-440D-804B-991E1E4C72FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CD8222E-5EE7-440D-804B-991E1E4C72FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CD8222E-5EE7-440D-804B-991E1E4C72FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA877A8-C030-47F6-B997-85CE4EB3727E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA877A8-C030-47F6-B997-85CE4EB3727E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA877A8-C030-47F6-B997-85CE4EB3727E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA877A8-C030-47F6-B997-85CE4EB3727E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
