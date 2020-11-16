@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7._Inheritance", "_7._Inhe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7.8._Inheritance_Exercises_Cats", "_7.8._Inheritance_Exercises_Cats\_7.8._Inheritance_Exercises_Cats.csproj", "{00BC3F03-D338-476E-8EDD-0C0886D153D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloASPDotNET", "HelloASPDotNET\HelloASPDotNET.csproj", "{B3A03E9D-4607-49B1-932C-B8A356EF5AB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,6 +110,10 @@ Global
 		{00BC3F03-D338-476E-8EDD-0C0886D153D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00BC3F03-D338-476E-8EDD-0C0886D153D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00BC3F03-D338-476E-8EDD-0C0886D153D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3A03E9D-4607-49B1-932C-B8A356EF5AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A03E9D-4607-49B1-932C-B8A356EF5AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A03E9D-4607-49B1-932C-B8A356EF5AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A03E9D-4607-49B1-932C-B8A356EF5AB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
