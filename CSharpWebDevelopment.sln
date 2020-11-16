@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_3.7.4._ControlFlowAndColle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4._ClassesPart1", "_4._ClassesPart1\_4._ClassesPart1.csproj", "{8A0B4075-28CC-49B7-9241-A90180DB8495}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4.7._ClassesAndObjects_Exercises", "_4.7._ClassesAndObjects_Exercises\_4.7._ClassesAndObjects_Exercises.csproj", "{B6D869E4-7D0A-4AA7-9215-856767D33CD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,6 +80,10 @@ Global
 		{8A0B4075-28CC-49B7-9241-A90180DB8495}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A0B4075-28CC-49B7-9241-A90180DB8495}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A0B4075-28CC-49B7-9241-A90180DB8495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D869E4-7D0A-4AA7-9215-856767D33CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D869E4-7D0A-4AA7-9215-856767D33CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D869E4-7D0A-4AA7-9215-856767D33CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D869E4-7D0A-4AA7-9215-856767D33CD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
