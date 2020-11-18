@@ -16,6 +16,8 @@ namespace SpaDay.Controllers
             return View();
         }
 
+
+        // GET: /user/add
         public IActionResult Add()
         {
             return View();
