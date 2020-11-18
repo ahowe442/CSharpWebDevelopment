@@ -7,5 +7,6 @@
 
   <ItemGroup>
     <None Remove="3.7.Exercises_ControlFlowAndCollections\StringExercises\obj\Debug\netcoreapp3.1\StringExercises.genruntimeconfig 2.cache" />
+    <None Remove="_3._ControlFlowAndCollections\obj\Debug\netcoreapp3.1\_3._ControlFlowAndCollections.csprojAssemblyReference.cache" />
   </ItemGroup>
 </Project>
