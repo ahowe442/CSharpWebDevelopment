@@ -3,9 +3,17 @@
 *@
 @{
 }
+@*@{
+    Layout = null;        // This will disable the default layout in Shared/_Layout.cshtml
+}*@
 
 
-<form method='post' action='/hello'>    
+<!--13.3.1.1. Accessing Data in a Template -->
+@*<p>Our viewBag property is: @ViewBag.testProperty</p>
+<p>Our ViewBag vegetable is: @ViewBag.vegetable</p>*@
+
+
+<form method='post' action='/hello'>
     <input type='text' name='name' />
     <input type='submit' value='Greet Me!' />
 </form>

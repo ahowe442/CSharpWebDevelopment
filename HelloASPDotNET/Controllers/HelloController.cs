@@ -14,7 +14,11 @@ namespace HelloASPDotNET.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-       
+            //// 13.3.1 Passing data to a template using the key "testProperty"
+            //ViewBag.testProperty = "LaunchCode";
+
+            //ViewBag.vegetable = "Rutabaga";
+
             return View();
         }
 

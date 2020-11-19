@@ -43,6 +43,34 @@ namespace _13._3._RazorViews_ChaptNotesAndDemos
              * method name.  
              * Razor templates-
              * use {variables} in curly brackets
+             * 
+             * 13.3. Using a Template:
+             * public IActionResult ActionMethod()
+             * {
+             *      //Method Code Here
+             *      
+             *      ViewBag.Property = Data; 
+             *      Return View();
+             * }
+             * 
+             * ViewBag - object that passes data into the template. 
+             * Data - Can be a variable of any type. 
+             * A ViewBag property is created and given a value as simply as is 
+             * done on line 5 above. In fact, we can just as easily create a 
+             * second property on ViewBag as follows:
+             * 
+             * ViewBag.anotherNewProperty = someOtherData;
+             * 
+             * 
+             * 13.3.1.1. Accessing Data in a Template
+             * The data assigned to properties on ViewBag is available inside 
+             * of Razor templates. It can be accessed with 
+             * the syntax -->
+             * 
+             * @ViewBag.propertyName.
+             * 
+             * 
+
              */
         }
     }
