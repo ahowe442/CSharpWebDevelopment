@@ -31,6 +31,14 @@ namespace _13._3._RazorViews_ChaptNotesAndDemos
              * Templates provide structure not content. 
              * 
              * 13.2 Creating a Template: 
+<<<<<<< HEAD
+=======
+             * For LC101, we'll be using Razor templates, which allows us to write C# in HTML template pages
+             * Razor reference page: 
+             * https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-3.1
+             * 
+             * 
+>>>>>>> aebb290f23a6564ae9ccdf40a383fd375762f8ab
              * 1.  create a .cshtml view template and populate it.
              * 2. Update controller to return the template with the view() method. 
              * 
