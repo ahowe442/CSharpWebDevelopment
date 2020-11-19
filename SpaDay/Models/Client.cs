@@ -6,6 +6,7 @@ namespace SpaDay.Models
 {
     public class Client
     {
+        //public string UserName { get; set; }
         public string SkinType { get; set; }
         public string NailService { get; set; }
         private List<string> appropriateFacials = new List<string>();
